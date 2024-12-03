@@ -8,4 +8,4 @@ codepen : https://codepen.io/alfarttusie/pen/emOpvPa
 * add the javascript function
 * enjoe ...use it like showNotification(some text)
 
-<img src="https://i.ibb.co/Y8g8DT8/Screenshot-3.png"  width="30" height="30">
+<img src="https://i.ibb.co/Y8g8DT8/Screenshot-3.png"  width="1400" height="400">
