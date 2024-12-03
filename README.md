@@ -8,4 +8,4 @@ codepen : https://codepen.io/alfarttusie/pen/emOpvPa
 * add the javascript function
 * enjoe ...use it like showNotification(some text)
 
-<img src="https://via.placeholder.com/20" alt="نقطة كبيرة" width="20" height="20"> 
+<img src="[https://via.placeholder.com/20](https://i.ibb.co/Y8g8DT8/Screenshot-3.png)"> 
